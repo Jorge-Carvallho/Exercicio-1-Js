@@ -1,5 +1,5 @@
 {
-# Exercício 1
+# Exercício 1 ( Referente a aula 19 *Onebitcode)
 
 ## Cadastro de Recrutas
 
@@ -16,7 +16,7 @@ Depois o programa deve exibir o nome completo do recruta, seu campo de estudo e 
 
 {
 
-## Calculadora de 4 Operações
+## Calculadora de 4 Operações ( Referente a aula 19 *Onebitcode)
 
 Escreve um programa em javascript que permita inserir dois valores numéricos e então calcule o resultado das quatro operações básicas (soma, subtração, multiplicação e divisão).
 

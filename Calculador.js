@@ -1,7 +1,7 @@
 const x = parseFloat(prompt(" Informe o primeiro número: "));
 const y = parseFloat(prompt(" Informe o segundo número: "));
 
-// tambem pode ser feito desta forma
+// tambem poderia ser feito desta forma
 /*
 const entrada1= prompt(' Informe o primeiro número')
 const entrada2= prompt('Infome o segundo número')
